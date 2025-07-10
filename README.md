@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Why global services**
 
-- 🌱 I’m currently learning **Javascript,react js,mongoDB,Node js**
-
 - 💬 Ask me about **I have a strong interest in learning coding and staying updated with new tools and technologies.**
 
 - 📫 How to reach me **vasanthakumar6562@gmail.com**
